@@ -1,0 +1,1 @@
+root=UUID=3b820579-b279-4985-bbea-d5b6c870d2c1 modules=sd-mod,usb-storage,ext4 quiet rootfstype=ext4
